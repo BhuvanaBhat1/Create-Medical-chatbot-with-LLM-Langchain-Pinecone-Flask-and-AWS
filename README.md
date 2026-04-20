@@ -54,7 +54,7 @@ open up localhost:
 - Python
 - LangChain
 - Flask
-- GPT
+- LLM
 - Pinecone
 
 
@@ -127,4 +127,4 @@ open up localhost:
    - AWS_DEFAULT_REGION
    - ECR_REPO
    - PINECONE_API_KEY
-   - OPENAI_API_KEY
+   - GROQ_API_KEY
